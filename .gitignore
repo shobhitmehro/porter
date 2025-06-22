@@ -1,0 +1,17 @@
+# macOS builds
+*.dSYM/
+
+# Ignore executables
+main_cpp
+
+# Ignore object files
+*.o
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore CMake build directories
+build/
+
+# Ignore notes
+notes.txt
